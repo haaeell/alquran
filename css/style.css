@@ -1,0 +1,27 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+#cover {
+    margin-top: 60px;
+}
+
+#atas-ayat {
+    margin-top: 90px;
+}
+
+.card-body {
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+    background-color: rgb(214, 209, 209);
+    border-radius: 8px;
+}
+
+a {
+    text-decoration: none;
+}
